@@ -26,10 +26,8 @@ Languages: Python, C++, SQL, R
 More: Figma, Tableau
 
 
-### Bonus
-This is my cat :)
+### Bonus!
+This is my cat Memow
 
-Her name is Memow
-
-<img width="500" alt="IMG_0181" src="https://github.com/garzacass/garzacass/assets/91804805/44cb8584-237a-4f0e-a203-080181d4c824">
+<img width="300" alt="IMG_0181" src="https://github.com/garzacass/garzacass/assets/91804805/44cb8584-237a-4f0e-a203-080181d4c824">
 
