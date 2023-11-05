@@ -8,24 +8,25 @@ Hi! Im Cassandra Garza. I usually go by Cass. I have found my passion in tech an
 I am currently advancing my data science skills by experimenting with machine learning.
 
 <!--
-**garzacass/garzacass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 ### Currently Learning
-
+SQL, R, Machine Learning
 
 
 ### Languages and Frameworks
+Languages: Python, C++, SQL, R
+More: Figma, Tableau
 
+
+### This is my Cat!
+Her name is Memow <3
+![IMG_0181](https://github.com/garzacass/garzacass/assets/91804805/44cb8584-237a-4f0e-a203-080181d4c824)
 
