@@ -1,5 +1,4 @@
-<img width="561" alt="Screenshot 2023-11-03 at 1 46 28 PM" src="https://github.com/garzacass/garzacass/assets/91804805/21217c49-f67d-4311-ac6d-74e275255b5f">
-
+<img width="800" alt="Screenshot 2023-11-03 at 1 46 28 PM" src="https://github.com/garzacass/garzacass/assets/91804805/21217c49-f67d-4311-ac6d-74e275255b5f">
 
 
 ### About Me
