@@ -1,4 +1,4 @@
-<img width="800" alt="Screenshot 2023-11-03 at 1 46 28 PM" src="https://github.com/garzacass/garzacass/assets/91804805/21217c49-f67d-4311-ac6d-74e275255b5f">
+<img width="900" alt="Screenshot 2023-11-03 at 1 46 28 PM" src="https://github.com/garzacass/garzacass/assets/91804805/21217c49-f67d-4311-ac6d-74e275255b5f">
 
 
 ### About Me
@@ -22,11 +22,14 @@ SQL, R, Machine Learning
 
 ### Languages and Frameworks
 Languages: Python, C++, SQL, R
+
 More: Figma, Tableau
 
 
-### This is my Cat!
-Her name is Memow <3
+### Bonus
+This is my cat :)
+
+Her name is Memow
 
 <img width="500" alt="IMG_0181" src="https://github.com/garzacass/garzacass/assets/91804805/44cb8584-237a-4f0e-a203-080181d4c824">
 
