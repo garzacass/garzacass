@@ -27,5 +27,6 @@ More: Figma, Tableau
 
 ### This is my Cat!
 Her name is Memow <3
-![IMG_0181](https://github.com/garzacass/garzacass/assets/91804805/44cb8584-237a-4f0e-a203-080181d4c824)
+
+<img width="500" alt="IMG_0181" src="https://github.com/garzacass/garzacass/assets/91804805/44cb8584-237a-4f0e-a203-080181d4c824">
 
