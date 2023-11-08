@@ -1,8 +1,18 @@
-<img width="900" alt="Screenshot 2023-11-03 at 1 46 28 PM" src="https://github.com/garzacass/garzacass/assets/91804805/21217c49-f67d-4311-ac6d-74e275255b5f">
-[!<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/cassandra-garza)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
+<div id="header" align="center">
 
+<img width="1000" src="https://github.com/garzacass/garzacass/assets/91804805/21217c49-f67d-4311-ac6d-74e275255b5f" alt="Banner">
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/cassandra-garza/">
+    <img width="40" src="https://github.com/garzacass/garzacass/assets/91804805/0fc33c1a-6d0b-4aaa-a7d7-d1a7469cf436" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/garzacass/garzacass/files/13298909/Cassandra.Garza.Resume.pdf">
+    <img width="40" src="https://github.com/garzacass/garzacass/assets/91804805/0cd9ebb6-a6da-4482-9183-840e8376fa0b" alt="Resume badge"/>
+  </a>
+
+
+<div id="header" align="left">
+  
 ### About Me
 Hi! I'm Cassandra Garza. I usually go by Cass. I have found my passion in tech and am president of Frontera Devs, a student-led organization dedicated to empowering developers with the resources they need to become leaders in tech including hands-on learning opportunities and mentorship programs. Our vision is to be our community's primary developer community; an environment where we eliminate barriers in tech and enable developers to discover new technologies and innovate.
 
