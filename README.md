@@ -17,5 +17,5 @@ Languages: Python, C++, SQL, R
 More: Figma, Tableau
 
 
-### This is my cat Memow!
+### This is my cat Memow :)
 <img width="250" alt="IMG_0181" src="https://github.com/garzacass/garzacass/assets/91804805/44cb8584-237a-4f0e-a203-080181d4c824">
